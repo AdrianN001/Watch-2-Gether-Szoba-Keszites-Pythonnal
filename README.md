@@ -20,6 +20,8 @@
 Ha már megvan a forráskód, csomagold ki a .zip fájlt!
 Ha nincs, töltsd le, vagy klónozd [GitHub](https://github.com/AdrianN001/Watch-2-Gether-Szoba-Keszites-Pythonnal)-rol!
 
+### 3. A kódban az "apikey" paraméternél a saját kapott API kulcsodat hasznald, amit generáltál, igy tudod majd irányitani a szobádat
+
 
 
 
