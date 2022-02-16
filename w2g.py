@@ -25,4 +25,4 @@ def room_create(api_key:str) -> str:
 
 
 if __name__ == '__main__':
-    print(room_create('gqv3cx5qiier6r5kum9nhhomq6uqw614xqdq4itc58wkrh562n0gitxs768audjk'))
+    print(room_create('YOUR_API_KEY'))
